@@ -1,4 +1,6 @@
-![github-header-image (1)](https://github.com/rohitraj232/rohitraj232/assets/57895889/15fe8f53-1a13-4a59-8d16-30410d9f9765)
+
+![github-header-image (2)](https://github.com/rohitraj232/rohitraj232/assets/57895889/794af14d-0748-41cf-b46b-b1eee0e5249c)
+
 
 <h1 align="center">Hi Everyone 👋, I'm Rohit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
