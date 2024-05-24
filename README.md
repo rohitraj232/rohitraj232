@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitraj232&label=Profile%20views&color=0e75b6&style=flat" alt="rohitraj232" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohitraj232](https://github.com/rohitraj232)
 
